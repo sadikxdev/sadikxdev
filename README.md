@@ -105,8 +105,22 @@ Git • GitHub • VS Code • Firebase • Vercel • Postman
 
 ## ▌CONNECT
 
-Email: sadikshaikh21001@gmail.com  
-LinkedIn: https://www.linkedin.com/in/sadik-shaikh-994b51266/
+<p align="left">
+  <a href="https://www.linkedin.com/in/sadik-shaikh-994b51266/" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:sadikshaikh21001@gmail.com" style="text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://x.com/sadikxdev18" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://instagram.com/sadikxdev18" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
+
+LinkedIn • Email • X • Instagram
 
 ---
 
