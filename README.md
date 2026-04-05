@@ -1,11 +1,11 @@
 <h1 align="center">Sadik Shaikh</h1>
-<h3 align="center">BSc Computer Science Student | Full Stack Developer | Cross-Platform Engineer | AI Explorer</h3>
+<h3 align="center">Computer Science Student | Full Stack Developer | Cross-Platform Engineer | AI Explorer</h3>
 
 ---
 
 ## ▌ABOUT ME
 
-▸ BSc Computer Science Student (CGPA: 9+)  
+▸ Computer Science Student (CGPA: 9+)  
 ▸ Full Stack Developer (MERN Stack)  
 ▸ React Native App Developer  
 ▸ Desktop Application Developer (Electron.js)  
@@ -92,14 +92,18 @@ Git • GitHub • VS Code • Firebase • Vercel • Postman
 ---
 
 ## ▌GITHUB ANALYTICS
-
 <p align="center">
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadikxdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=sadikxdev&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadikxdev&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sadikxdev&layout=compact&theme=dark" />
-</p>
+</p> -->
 
 ---
 
@@ -124,4 +128,4 @@ LinkedIn • Email • X • Instagram
 
 ---
 
-Building scalable software across Web, Mobile & Desktop with AI integration.
+<p align="center">Building scalable software across Web, Mobile & Desktop with AI integration.</p>
