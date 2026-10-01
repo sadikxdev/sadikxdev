@@ -116,10 +116,10 @@ Git • GitHub • VS Code • Firebase • Vercel • Postman
   <a href="mailto:sadikshaikh21001@gmail.com" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://x.com/sadikxdev18" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://x.com/sadikk018" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://instagram.com/sadikxdev18" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://instagram.com/sadikk018" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>
