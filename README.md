@@ -93,7 +93,7 @@ Git • GitHub • VS Code • Firebase • Vercel • Postman
 
 ## ▌GITHUB ANALYTICS
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadikxdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sadikxdev&show_icons=true&theme=tokyonight&hide_border=true" /> -->
   <img width="48%" src="https://streak-stats.demolab.com?user=sadikxdev&theme=tokyonight&hide_border=true" />
 </p>
 
